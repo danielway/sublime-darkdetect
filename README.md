@@ -1,2 +1,2 @@
-# sublime-darkdetect
-Darkdetect Python library as a Sublime Text 3 plugin dependency.
+# Sublime Text 3 Darkdetect Dependency
+This is a fork of the [Darkdetect](https://github.com/albertosottile/darkdetect) Python library which makes it available as a [dependency](https://packagecontrol.io/docs/dependencies) in [packages](https://packagecontrol.io/docs#Package_Developers) for [Sublime Text 3](http://sublimetext.com). The Darkdetect library detects whether the user's OS is in a "dark" or "light" theme/mode.
